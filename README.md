@@ -1,1 +1,1 @@
-this repo allows you to open your [obsidian](https://obsidian.md) Vault from your Browser, just simply Fork this repo and change the json variable `vaultName` to the name of your vault and your all set to go, you can now open your obsidian vault from your browser or even add a shortcut to open it faster
+this repo allows you to open your [obsidian](https://obsidian.md) Vault from your Browser
